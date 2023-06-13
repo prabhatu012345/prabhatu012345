@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Prabhat Kumar</h1>
+<h1 align="center">Hi there👋, I'm Prabhat Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatu012345&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatu012345" /> </p>
 
-- 🌱 I’m currently learning **Automate as much as possible in DevOps practices**
+- 🌱 I’m currently learning **Automate software delivery process as much as possible in DevOps practices**
 
 - 📫 How to reach me **prabhatu012345@gmail.com**
-
-- ⚡ Fun fact **I am a chill guy**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
